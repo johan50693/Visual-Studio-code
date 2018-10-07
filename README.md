@@ -1,6 +1,6 @@
 Lista de paquetes 
 
-advanced-new-file
+advanced-new-file \n
 AutoFileName
 Ayu
 Beauty
@@ -24,3 +24,5 @@ python for vscode
 visual studio intellicode-preview 
 vscode-faker
 vscode-icons
+All Autocomplete
+
