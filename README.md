@@ -1,6 +1,6 @@
 Lista de paquetes 
 
-advanced-new-file \n
+advanced-new-file
 AutoFileName
 Ayu
 Beauty
