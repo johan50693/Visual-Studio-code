@@ -25,4 +25,6 @@ visual studio intellicode-preview
 vscode-faker
 vscode-icons
 All Autocomplete
+Git History Diff
+
 
