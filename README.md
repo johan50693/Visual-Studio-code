@@ -27,5 +27,4 @@ vscode-icons
 All Autocomplete
 Git History Diff
 PHP Intelephense
-
-
+PHP Namespace Resolver
