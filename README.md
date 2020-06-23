@@ -26,5 +26,6 @@ vscode-faker
 vscode-icons
 All Autocomplete
 Git History Diff
+PHP Intelephense
 
 
